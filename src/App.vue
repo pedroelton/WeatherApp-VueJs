@@ -23,7 +23,7 @@
 
 
 <script>
-import { API_KEY, URL_BASE } from "../apikey.js"
+import { API_KEY, URL_BASE } from "./apikey"
 
 export default {
   name: 'app',
